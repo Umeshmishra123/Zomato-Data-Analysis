@@ -3,40 +3,46 @@ An analysis of Zomato restaurant and customer data to uncover trends and insight
 
 #conclusion-Maximum order from dining category
 
-![image](https://github.com/user-attachments/assets/5e8f13a8-2a6c-475c-826f-dcbf98e213bd)
+![image](https://github.com/user-attachments/assets/97d38b81-a1f9-4581-aac6-3bd026074d99)
+
 
 
 #Which restourant got highest votes
 
 #Dining Resturant got maximum votes
 
-![image](https://github.com/user-attachments/assets/af5b507d-d106-4d0f-a206-0f36dca01fde)
+![image](https://github.com/user-attachments/assets/475ef19d-23ea-4904-bba9-d0768fbd3d42)
+
 
 
 # Majority Restourants got rating 3.5 to 4
 
-![image](https://github.com/user-attachments/assets/5557b2ab-e892-4850-95aa-1475ce5bb65f)
+![image](https://github.com/user-attachments/assets/57fa8d07-4e42-4ded-bba3-68333150d413)
+
 
 
 #Average order spent by couple
 
 #Conclusion:Majority of couples prefer resturants with an approx cost of 300 rupees
 
-![image](https://github.com/user-attachments/assets/19305302-dc7d-4e17-b596-5b099300e7cc)
+![image](https://github.com/user-attachments/assets/5857f74a-088d-467b-a9ea-6727f0b43029)
+
 
 
 #Which mode receives maximum ratings
 
 #conclusion: Offline order receives less rating as compare to online order
 
-![image](https://github.com/user-attachments/assets/18f95db2-e3d2-45b7-a189-1917bd49f0ea)
+![image](https://github.com/user-attachments/assets/8715640d-0281-40f9-ad0e-cedb655eab38)
+
 
 
 #Dining restaurants primarily accept offline orders,whereas cafes primarily receive online orders,
 
 #This suggests that clients prefer orders in person at restaurants,but prefer online ordering at cafes.
 
-![image](https://github.com/user-attachments/assets/0e387efe-f213-44c9-a5e6-3ee3dd878c46)
+![image](https://github.com/user-attachments/assets/64b011c7-7d54-41d9-af2b-8f35ab1ef304)
+
 
 
 

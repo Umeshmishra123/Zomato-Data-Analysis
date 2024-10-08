@@ -20,7 +20,7 @@ An analysis of Zomato restaurant and customer data to uncover trends and insight
 
 #Average order spent by couple
 
-Conclusion:Majority of couples prefer resturants with an approx cost of 300 rupees
+#Conclusion:Majority of couples prefer resturants with an approx cost of 300 rupees
 
 ![image](https://github.com/user-attachments/assets/19305302-dc7d-4e17-b596-5b099300e7cc)
 
